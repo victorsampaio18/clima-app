@@ -47,37 +47,37 @@ NEXT_PUBLIC_OPENWEATHER_API_KEY=SUA_API_KEY
 ```
 
 # Estrutura do Projeto (src)
-- **app/**
-`globals.css`
-`layout.tsx`
+- **app/** <br>
+`globals.css` <br>
+`layout.tsx` <br>
 `page.tsx`
-- **components/**
-`navbar.tsx`
-`main-weather.tsx`
-`additional-info.tsx`
-`hourly-forecast-card.tsx`
-`daily-forecast-card.tsx`
+- **components/** <br>
+`navbar.tsx` <br>
+`main-weather.tsx` <br>
+`additional-info.tsx` <br>
+`hourly-forecast-card.tsx` <br>
+`daily-forecast-card.tsx` <br>
 `footer.tsx`
 - .env.local
 
 # Instalação
 - **Passo 1:** Clone o repositório
-git clone https://github.com/victorsampaio18/clima-app.git
+git clone https://github.com/victorsampaio18/clima-app.git <br>
 `cd weather-website`
 
-- **Passo 2:** Instale as dependências
+- **Passo 2:** Instale as dependências <br>
 `npm install`
 
-- **Passo 2.1:** Se estiver usando Mac, instale o pods no iOS
+- **Passo 2.1:** Se estiver usando Mac <br>
 `npx pod-install`
 
-- **Passo 3:** Execute o app
+- **Passo 3:** Execute o app <br>
 `npm run dev`
 
 # Autor
-Developed by **Victor Sampaio de Almeida**
+Developed by **Victor Sampaio de Almeida** <br>
 Powered by **OpenWeatherMap API**
 
 # Licença
-Este projeto está licenciado sob a **MIT License** e é de uso livre para estudos e aprimoramento pessoal.
+Este projeto está licenciado sob a **MIT License** e é de uso livre para estudos e aprimoramento pessoal. <br>
 Distribuições comerciais devem creditar a **API OpenWeatherMap**.
