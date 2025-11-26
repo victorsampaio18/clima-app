@@ -5,29 +5,29 @@
 O Clima App é um site moderno de previsão do tempo desenvolvido em **Next.js**, utilizando a **OpenWeatherMap API** para fornecer informações atualizadas sobre clima, previsão por hora, previsão para os próximos dias, um sistema de busca inteligente de cidades e interface totalmente responsiva.
 
 # Funcionalidades
-- **Busca inteligente de cidades**
-Autocomplete conforme o usuário digita
-Usando **OpenWeather Geocoding API**
-Sugestões com cidade, estado e país
+- **Busca inteligente de cidades** <br>
+Autocomplete conforme o usuário digita <br>
+Usando **OpenWeather Geocoding API** <br>
+Sugestões com cidade, estado e país <br>
 Pesquisa global
 
-- **Informações exibidas**
-Cidade
-Estado
-País
-Última atualização
-Descrição do tempo
-Ícone oficial do clima
+- **Informações exibidas** <br>
+Cidade <br>
+Estado <br>
+País <br>
+Última atualização <br>
+Descrição do tempo <br>
+Ícone oficial do clima <br>
 Temperatura atual
 
-- **Previsão detalhada**
-Previsão por hora (com ícones)
-Previsão dos próximos dias (com ícones)
+- **Previsão detalhada** <br>
+Previsão por hora (com ícones) <br>
+Previsão dos próximos dias (com ícones) <br>
 Temperaturas mínima e máxima
 
-- **Interface adaptável**
-Tema dinâmico com base em: dia/noite e tempo limpo/nublado/chuvoso
-Cores automáticas
+- **Interface adaptável** <br>
+Tema dinâmico com base em: dia/noite e tempo limpo/nublado/chuvoso <br>
+Cores automáticas <br>
 100% responsivo
 
 # Tecnologias Utilizadas
