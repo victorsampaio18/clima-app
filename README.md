@@ -6,29 +6,29 @@ O Clima App é um site moderno de previsão do tempo desenvolvido em **Next.js**
 
 # Funcionalidades
 - **Busca inteligente de cidades**
-* Autocomplete conforme o usuário digita
-* Usando **OpenWeather Geocoding API**
-* Sugestões com cidade, estado e país
-* Pesquisa global
+Autocomplete conforme o usuário digita
+Usando **OpenWeather Geocoding API**
+Sugestões com cidade, estado e país
+Pesquisa global
 
 - **Informações exibidas**
-* Cidade
-* Estado
-* País
-* Última atualização
-* Descrição do tempo
-* Ícone oficial do clima
-* Temperatura atual
+Cidade
+Estado
+País
+Última atualização
+Descrição do tempo
+Ícone oficial do clima
+Temperatura atual
 
 - **Previsão detalhada**
-* Previsão por hora (com ícones)
-* Previsão dos próximos dias (com ícones)
-* Temperaturas mínima e máxima
+Previsão por hora (com ícones)
+Previsão dos próximos dias (com ícones)
+Temperaturas mínima e máxima
 
 - **Interface adaptável**
-* Tema dinâmico com base em: dia/noite e tempo limpo/nublado/chuvoso
-* Cores automáticas
-* 100% responsivo
+Tema dinâmico com base em: dia/noite e tempo limpo/nublado/chuvoso
+Cores automáticas
+100% responsivo
 
 # Tecnologias Utilizadas
 - **Next.js 14**
@@ -47,9 +47,18 @@ NEXT_PUBLIC_OPENWEATHER_API_KEY=SUA_API_KEY
 ```
 
 # Estrutura do Projeto (src)
-- app/ (`globals.css`, `layout.tsx`, `page.tsx`)
-- components/ (`navbar.tsx`, `main-weather.tsx`, `additional-info.tsx`, `hourly-forecast-card.tsx`, `daily-forecast-card.tsx`, `footer.tsx`)
-- `.env.local`
+- **app/**
+`globals.css`
+`layout.tsx`
+`page.tsx`
+- **components/**
+`navbar.tsx`
+`main-weather.tsx`
+`additional-info.tsx`
+`hourly-forecast-card.tsx`
+`daily-forecast-card.tsx`
+`footer.tsx`
+- .env.local
 
 # Instalação
 - **Passo 1:** Clone o repositório
